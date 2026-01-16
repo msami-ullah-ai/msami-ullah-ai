@@ -1,76 +1,63 @@
-👋 Hi, I’m Sami Ullah
+<h1 align="center">Hi 👋 I'm Sami Ullah</h1>
+<h3 align="center">
+  Undergraduate Computer Science Student
+</h3>
 
-🎓 Undergrad CS Student
-📍 Building a Research level profile in Ai/ML
-🧠 Focus: Math → Code → Intuition
+---
 
-🚀 About Me
+## 🧠 Focus
 
-I am a computer science student building a strong foundation in machine learning by connecting mathematical theory with practical implementation.
+- Machine learning from first principles  
+- Linear algebra and probability for machine learning  
+- Classical machine learning algorithms and optimization  
+- Data analysis on real-world datasets 
 
-Instead of using models as black boxes, I focus on:
+---
 
-understanding how algorithms work mathematically
+## 🔬 What I'm Working On
 
-translating linear algebra & probability into Python code
+- Developing a rigorous foundation in machine learning suitable for research-oriented graduate programs  
+- Implementing mathematical formulations of ML algorithms in Python  
+- Producing well-documented Kaggle notebooks and GitHub projects with emphasis on clarity and correctness  
 
-applying concepts on real-world datasets
+---
 
-I use Kaggle notebooks and GitHub to document my learning journey.
+## 🛠 Tech Stack
 
-🎯 Current Focus
+**Core:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-Linear Algebra for Machine Learning
+**ML & Tools:**
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-Probability & Statistics (intuition-first)
+---
 
-Classical ML algorithms (from scratch where possible)
+## Methodology
 
-Data analysis using real datasets
+My approach emphasizes theoretical understanding before implementation.  
+Each project begins with mathematical formulation, followed by clean implementation and critical evaluation.
 
-🛠️ Tech Stack (Growing)
+> *Understanding precedes optimization.*
+---
 
-Language: Python
+## 📂 Projects
 
-Libraries: NumPy, Pandas, Matplotlib
+- Mathematical foundations of machine learning (code-focused notebooks)  
+- Exploratory analysis of structured datasets  
+- Classical algorithms implemented from first principles  
+- Conceptual writeups connecting theory with practice  
 
-ML: scikit-learn (foundations)
+Projects are added progressively as they reach a publishable standard.
 
-Tools: Jupyter / Kaggle Notebooks, GitHub
+---
 
-(Deep Learning tools coming later — fundamentals first.)
 
-📘 Learning Philosophy
+## Profiles
 
-“Understand the math → implement it → explain it simply.”
+- Kaggle: https://www.kaggle.com/samiullah9  
+- LinkedIn: https://pk.linkedin.com/in/sami-ullah-ai
 
-My goal is not speed, but clarity and depth.
-Each project is designed to strengthen intuition, not just accuracy.
-
-📂 Projects (Work in Progress)
-
-🚧 This section will grow as I learn and publish:
-
-ML Math → Code Notebooks
-
-Dataset Explorations (Kaggle)
-
-Algorithms from Scratch
-
-Conceptual Writeups (Math + ML)
-
-👉 Check back soon for updates.
-
-🌱 What I’m Working Toward
-
-Strong ML foundations suitable for research-oriented programs
-
-Public, well-explained notebooks and projects
-
-A profile aligned with competitive scholarships & graduate studies
-
-🔗 Connect With Me
-
-💼 LinkedIn: https://pk.linkedin.com/in/sami-ullah-ai
-
-📊 Kaggle: https://www.kaggle.com/samiullah9
