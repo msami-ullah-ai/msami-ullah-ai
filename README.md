@@ -7,18 +7,23 @@
 
 ## 🧠 Focus
 
-- Machine learning from first principles  
+I work on understanding **machine learning from first principles**, with particular emphasis on the mathematics that drives model behavior.
+
 - Linear algebra and probability for machine learning  
-- Classical machine learning algorithms and optimization  
-- Data analysis on real-world datasets 
+- Classical machine learning algorithms  
+- Optimization and model understanding  
+- Data analysis on real-world datasets  
 
 ---
 
 ## 🔬 What I'm Working On
 
-- Developing a rigorous foundation in machine learning suitable for research-oriented graduate programs  
-- Implementing mathematical formulations of ML algorithms in Python  
-- Producing well-documented Kaggle notebooks and GitHub projects with emphasis on clarity and correctness  
+- Building a strong mathematical foundation for machine learning  
+- Translating theory into clean, correct Python implementations  
+- Developing Kaggle notebooks and GitHub projects with a focus on clarity and correctness  
+
+📌 **Primary work:**  
+Mathematics-focused ML notes and implementations (see pinned repositories)
 
 ---
 
@@ -36,28 +41,33 @@
 
 ---
 
-## Methodology
+## 🧭 Methodology
 
-My approach emphasizes theoretical understanding before implementation.  
-Each project begins with mathematical formulation, followed by clean implementation and critical evaluation.
+My approach prioritizes **understanding before implementation**.
 
-> *Understanding precedes optimization.*
+Each project typically follows:
+- Mathematical formulation  
+- Clear assumptions  
+- Simple, readable code  
+- Evaluation and limitations  
+
+> *Good models come from understanding the problem, not just using the tools.*
+
 ---
 
 ## 📂 Projects
 
-- Mathematical foundations of machine learning (code-focused notebooks)  
+My repositories focus on:
+- Mathematical foundations of machine learning  
+- Classical ML algorithms implemented from scratch  
 - Exploratory analysis of structured datasets  
-- Classical algorithms implemented from first principles  
 - Conceptual writeups connecting theory with practice  
-
-Projects are added progressively as they reach a publishable standard.
 
 ---
 
-
-## Profiles
+## 🔗 Profiles
 
 - Kaggle: https://www.kaggle.com/samiullah9  
 - LinkedIn: https://pk.linkedin.com/in/sami-ullah-ai
+
 
