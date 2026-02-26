@@ -1,9 +1,16 @@
-<h1 align="center">Hi 👋 I'm Sami Ullah</h1>
-<h3 align="center">
-  Undergraduate Computer Science Student
-</h3>
+<h1 align="center">Heyo I'm Sami Ullah </h1>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=7B61FF&size=28&center=true&vCenter=true&width=700&lines=Always+Learning+%7C+Building+%7C+Sharing;AI+%7C+Machine+Learning+Researcher;Finding+beauty+in+the+math+behind+intelligence" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msami-ullah-ai&label=Profile%20Views&color=7B61FF&style=flat" />
+</p>
+
+<h2 align="center">Sami Ullah</h2>
+
+<hr>
 
 ## 🧠 Focus
 
