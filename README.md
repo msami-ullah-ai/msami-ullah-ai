@@ -1,80 +1,149 @@
-<h1 align="center">Heyo I'm Sami Ullah </h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7B61FF&size=28&center=true&vCenter=true&width=700&lines=Always+Learning+%7C+Building+%7C+Sharing;AI+%7C+Machine+Learning+Researcher;Finding+beauty+in+the+math+behind+intelligence" />
+# Sami Ullah
+
+### AI Research • Multilingual NLP • Retrieval Systems
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=24&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Low-Resource+NLP+Research;Retrieval-Augmented+Generation+(RAG);Mathematical+Machine+Learning;AI+for+Social+Impact;Cross-Lingual+Language+Systems" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=msami-ullah-ai&label=Profile+Views&color=7C3AED&style=flat" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msami-ullah-ai&label=Profile%20Views&color=7B61FF&style=flat" />
+<p>
+  <a href="https://github.com/msami-ullah-ai">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/sami-ullah-ai/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+
+  <a href="https://www.kaggle.com/samiullah9">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle"/>
+  </a>
 </p>
 
-<h2 align="center">Sami Ullah</h2>
-
-<hr>
-
-## 🧠 Focus
-
-I work on understanding **machine learning from first principles**, with particular emphasis on the mathematics that drives model behavior.
-
-- Linear algebra and probability for machine learning  
-- Classical machine learning algorithms  
-- Optimization and model understanding  
-- Data analysis on real-world datasets  
+</div>
 
 ---
 
-## 🔬 What I'm Working On
+# Research Direction
 
-- Building a strong mathematical foundation for machine learning  
-- Translating theory into clean, correct Python implementations  
-- Developing Kaggle notebooks and GitHub projects with a focus on clarity and correctness  
+I work on intelligent language systems for low-resource and multilingual environments, with emphasis on retrieval-augmented generation, semantic search, and mathematically grounded machine learning.
 
-📌 **Primary work:**  
-Mathematics-focused ML notes and implementations (see pinned repositories)
+Current interests include:
 
----
-
-## 🛠 Tech Stack
-
-**Core:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**ML & Tools:**
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+- Low-Resource NLP
+- Retrieval-Augmented Generation (RAG)
+- Cross-Lingual Language Systems
+- Semantic Retrieval Pipelines
+- Information Extraction
+- Mathematical ML Foundations
+- AI for Agriculture & Social Impact
 
 ---
 
-## 🧭 Methodology
+# Academic Profile
 
-My approach prioritizes **understanding before implementation**.
-
-Each project typically follows:
-- Mathematical formulation  
-- Clear assumptions  
-- Simple, readable code  
-- Evaluation and limitations  
-
-> *Good models come from understanding the problem, not just using the tools.*
+- BS Computer Science — COMSATS University Islamabad
+- CGPA: **3.96 / 4.00**
+- Perfect **4.00 / 4.00** in first two semesters
+- CM Punjab Honhaar Scholarship Recipient
+- Stanford Code in Place Section Leader
+- Kaggle Notebooks Expert
 
 ---
 
-## 📂 Projects
+# Selected Work
 
-My repositories focus on:
-- Mathematical foundations of machine learning  
-- Classical ML algorithms implemented from scratch  
-- Exploratory analysis of structured datasets  
-- Conceptual writeups connecting theory with practice  
+## ML-Math-Bridge
+
+Mathematical foundations for machine learning connecting:
+
+- Linear Algebra
+- Calculus
+- Probability
+- Optimization
+
+to practical ML systems and implementations.
+
+Focus:
+- rigorous intuition
+- derivations
+- clean implementations
+- theory-to-practice understanding
 
 ---
 
-## 🔗 Profiles
+## Classical-Machine-Learning-CS229
 
-- Kaggle: https://www.kaggle.com/samiullah9  
-- LinkedIn: https://pk.linkedin.com/in/sami-ullah-ai
+Research-oriented implementation repository inspired by Stanford CS229.
 
+Includes:
+- from-scratch ML algorithms
+- derivations
+- optimization intuition
+- mathematical walkthroughs
+- implementation-focused notebooks
 
+---
+
+## SmartMandi AI
+
+Machine learning platform for agricultural market intelligence.
+
+Features:
+- crop price prediction
+- regional market comparison
+- recommendation pipelines
+- socioeconomic AI applications
+
+---
+
+# Experience
+
+## Stanford University — Code in Place
+
+Selected as a Section Leader for Stanford's global programming initiative, mentoring students in Python and computational problem solving across an international cohort.
+
+---
+
+## AI Tutor — Preply
+
+Delivered international AI and machine learning tutoring sessions focused on:
+
+- machine learning
+- Python
+- data science
+- mathematics for AI
+
+---
+
+# Technical Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,sqlite,tensorflow,sklearn,git,github,vscode" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=msami-ullah-ai&show_icons=true&hide_border=true&bg_color=00000000&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=msami-ullah-ai&hide_border=true&background=00000000&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" height="170"/>
+
+</div>
+
+---
+
+# Research Philosophy
+
+<div align="center">
+
+### “Good AI systems are built through mathematical understanding, not framework memorization.”
+
+</div>
