@@ -89,15 +89,18 @@ Includes:
 
 ---
 
-## SmartMandi AI
+## KissanAI
 
-Machine learning platform for agricultural market intelligence.
+AI-powered agricultural decision support platform for Punjab farmers featuring:
+- crop recommendation intelligence
+- profitability prediction
+- weather-risk analysis
+- irrigation optimization
+- smart land allocation
+- real-time weather integration
+- interactive analytics dashboards
 
-Features:
-- crop price prediction
-- regional market comparison
-- recommendation pipelines
-- socioeconomic AI applications
+Built using FastAPI, React, TypeScript, PostgreSQL, and Tailwind CSS.
 
 ---
 
